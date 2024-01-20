@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background: linear-gradient(
+    0deg,
+    rgba(12, 15, 23, 1) 0%,
+    rgba(14, 27, 45, 1) 35%
+  );
+  background-repeat: no-repeat;
+  font-family: poppins;
+}
+
+* {
+  font-family: "Poppins", sans-serif !important;
+}
+
+.main-heading {
+  font-family: "Salsa", cursive !important;
+  line-height: 106px;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+.star-icon img {
+  background: white;
+  border-radius: 100%;
+  padding: 8px;
+  width: 2rem;
+  height: 2rem;
+}
+
+.swiper-wrapper {
+  margin-bottom: 5rem;
+}
+
+.swiper-pagination {
+  padding-top: 4rem;
+}
+
+span.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: white !important;
+}
+
+span.swiper-pagination-bullet {
+  background-color: #2f434b !important;
+  width: 22px;
+  height: 22px;
+}
