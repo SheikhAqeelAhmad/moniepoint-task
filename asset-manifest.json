@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/moniepoint-task/static/css/main.9ea62b6b.css",
-    "main.js": "/moniepoint-task/static/js/main.0df9fdef.js",
+    "main.css": "/moniepoint-task/static/css/main.07f77c8a.css",
+    "main.js": "/moniepoint-task/static/js/main.230f5c22.js",
     "static/js/787.caaea2da.chunk.js": "/moniepoint-task/static/js/787.caaea2da.chunk.js",
     "index.html": "/moniepoint-task/index.html",
-    "main.9ea62b6b.css.map": "/moniepoint-task/static/css/main.9ea62b6b.css.map",
-    "main.0df9fdef.js.map": "/moniepoint-task/static/js/main.0df9fdef.js.map",
+    "main.07f77c8a.css.map": "/moniepoint-task/static/css/main.07f77c8a.css.map",
+    "main.230f5c22.js.map": "/moniepoint-task/static/js/main.230f5c22.js.map",
     "787.caaea2da.chunk.js.map": "/moniepoint-task/static/js/787.caaea2da.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ea62b6b.css",
-    "static/js/main.0df9fdef.js"
+    "static/css/main.07f77c8a.css",
+    "static/js/main.230f5c22.js"
   ]
 }
