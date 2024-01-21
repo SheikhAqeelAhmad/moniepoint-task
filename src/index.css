@@ -11,13 +11,15 @@ body {
   );
   background-repeat: no-repeat;
   font-family: poppins;
-  overflow: hidden;
+
 }
 
 * {
   font-family: "Poppins", sans-serif !important;
 }
-
+#root{
+  overflow: hidden;
+}
 .main-heading {
   padding-bottom: 131px ;
   font-family: "Salsa", cursive !important;
