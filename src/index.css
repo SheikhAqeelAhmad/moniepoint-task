@@ -11,6 +11,7 @@ body {
   );
   background-repeat: no-repeat;
   font-family: poppins;
+  /* overflow: hidden; */
 }
 
 * {
@@ -18,8 +19,9 @@ body {
 }
 
 .main-heading {
+  padding-bottom: 131px ;
   font-family: "Salsa", cursive !important;
-  line-height: 106px;
+  /* line-height: 106px; */
   font-weight: 600;
   letter-spacing: 1px;
 }
